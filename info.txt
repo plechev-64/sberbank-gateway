@@ -1,0 +1,8 @@
+Name: Sberbank Gateway;
+Parent Addon: user-balance;
+Version: 1.2.2;
+Support Core: 16.24.0;
+ItemID:23443;
+Description: Подключение сайта к интернет-эквайрингу Сбербанка (ФЗ-54);
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
